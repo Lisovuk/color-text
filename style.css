@@ -1,0 +1,89 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+   background-color:#343333;
+}
+
+#wrapper {
+   width: 300px;
+   height: 70px;
+   border: 1px solid black;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   margin: 10px;
+   padding: 2px;
+}
+
+div {
+   width: 30px;
+   height: 30px;
+   border: 1px solid rgb(0, 0, 0);
+   margin: 1px;
+   cursor: pointer;
+}
+
+.div1 {
+   background-color: black;
+}
+.div2 {
+   background-color: gray;
+}
+.div3 {
+   background-color: darkgreen;
+}
+.div4 {
+   background-color: red;
+}
+.div5 {
+   background-color: yellow;
+}
+.div6 {
+   background-color: green;
+}
+.div7 {
+   background-color: blue;
+}
+.div8 {
+   background-color: navy;
+}
+.div9 {
+   background-color: purple;
+}
+.div10 {
+   background-color: white;
+}
+.div11 {
+   background-color: darkslateblue;
+}
+.div12 {
+   background-color: pink;
+}
+.div13 {
+   background-color: aqua;
+}
+.div14 {
+   background-color: lime;
+}
+.div15 {
+   background-color: goldenrod;
+}
+.div16 {
+   background-color: skyblue;
+}
+.div17 {
+   background-color: orange;
+}
+.div18 {
+   background-color: magenta;
+}
+
+#text {
+   margin: 10px;
+   font-size: 25px;
+}
